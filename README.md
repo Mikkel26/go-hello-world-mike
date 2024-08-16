@@ -5,7 +5,7 @@ Install
 ```
 go get github.com/bluecodemonks/go-hello-world
 ```
-
+This is an example of repo
 Run
 
 ```
