@@ -12,3 +12,8 @@ Run
 $ go-hello-world
 Hello World
 ```
+
+Unistall
+```
+$ rm $GOPATH/bin/go-hello-world
+```
